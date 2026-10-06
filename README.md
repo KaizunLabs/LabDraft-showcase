@@ -56,7 +56,13 @@ Code Studio offers code generation and output simulation across languages and te
 
 ![Code Studio with editor and terminal panels](screenshots/code-studio-guide.png)
 
-*Screenshots were captured from the public app on 6 October 2026 in a signed-out browser. The homepage document is an illustrative preview; the other images show the starting forms, not completed AI results. The interface may change after this snapshot.*
+### A finished document
+
+This one-page Quick Sort example shows the PDF layout: structured sections, code, a terminal-style output panel, and a clear verification label. It is a deterministic sample made with LabDraft's current PDF exporter, **not an AI-generated result or a student's submission**. [Download the sample PDF](samples/quick-sort-practical.pdf).
+
+![Sample Quick Sort practical exported as a PDF](screenshots/export-example.png)
+
+*App screenshots were captured from the public site on 6 October 2026 in a signed-out browser. The homepage document is an illustrative preview; the workstation images show starting forms. The separate PDF example was produced from fictional sample content. The interface may change after this snapshot.*
 
 ## Behind the product
 
